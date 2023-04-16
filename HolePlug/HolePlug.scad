@@ -13,7 +13,7 @@ holeDiameter=43;
 plugCapDiameter=holeDiameter + 5;
 // the size of the hole walls
 wallThickness=2;
-// the height of the top of the plug
+// the height of the base of the plug
 baseHeight=2.5;
 // the height of the plugs seal
 sealHeight=4.0;
