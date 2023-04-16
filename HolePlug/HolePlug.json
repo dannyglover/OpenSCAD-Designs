@@ -1,0 +1,18 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "baseHeight": "2.5",
+            "holeDiameter": "44",
+            "sealHeight": "3",
+            "wallThickness": "2"
+        },
+        "New set 2": {
+            "baseHeight": "2.5",
+            "holeDiameter": "44",
+            "includeSizeText": "true",
+            "sealHeight": "2",
+            "wallThickness": "2"
+        }
+    }
+}
