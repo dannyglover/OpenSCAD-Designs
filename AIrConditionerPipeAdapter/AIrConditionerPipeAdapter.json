@@ -1,0 +1,32 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "baseHeight": "2.5",
+            "sealHeight": "3",
+            "wallThickness": "2"
+        },
+        "New set 2": {
+            "baseHeight": "2.5",
+            "includeSizeText": "true",
+            "sealHeight": "2",
+            "wallThickness": "2"
+        },
+        "New set 3": {
+            "baseHeight": "4",
+            "includeSizeText": "false",
+            "largePipeDiameter": "135",
+            "sealHeight": "8",
+            "smallPipeDiameter": "96",
+            "wallThickness": "2"
+        },
+        "New set 4": {
+            "baseHeight": "10",
+            "includeSizeText": "false",
+            "largePipeDiameter": "135",
+            "sealHeight": "10",
+            "smallPipeDiameter": "96",
+            "wallThickness": "4"
+        }
+    }
+}
